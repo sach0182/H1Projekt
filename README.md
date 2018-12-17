@@ -1,0 +1,2 @@
+# H1Projekt
+Jeg vil under mit H1 projekt lave en personlig blog, bloggen skal være en onepage site som skal indeholde statusser/opslag (som jeg selv skriver og redigere), links til mine sociale medier, billeder eller statusser der er hentet fra et social medie. Jeg vil bruge en database til at gemme og redigere det opslag jeg laver, der ud over vil jeg bruge jQuery til at lave special effekts på siden (procesbar, animation på billederne osv.)
