@@ -1,0 +1,63 @@
+body{
+    color: black;
+    padding: 0%;
+    margin: 0%;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    font-family: 'Pontano Sans', sans-serif;
+}
+#banner{
+    width: 100vw;
+    height: 35vh;
+    object-fit: cover;
+}
+#statusContainer{
+    width: 50vw;
+    height: 99vh;
+    background-color: rgb(211, 211, 211);
+    margin-left: 8vw;
+    padding: 3vw;
+    overflow-y: scroll;
+    margin-bottom: 3vh;
+}
+.opslag{
+    padding: 1vw;
+    background-color: whitesmoke;
+    margin-bottom: 3vh;
+    font-family: 'Pontano Sans', sans-serif;
+    width: 45vw;
+    word-wrap: break-word;
+    padding-bottom: 3vh;
+}
+textarea{
+    font-family: 'Pontano Sans', sans-serif;
+    width: 56vw;
+    height: 15vh;
+    overflow-y: scroll;
+    margin-bottom: 1vh;
+    border-radius: 1.5vw;
+    background-color: rgb(211, 211, 211);
+    outline: none;
+    box-shadow: none;
+    border: solid 1px rgb(211, 211, 211);
+    padding: 1vw;
+}
+form{
+    margin-top: 5vh;
+    margin-left: 8vw;
+}
+#submit{
+    background-color: rgb(211, 211, 211);
+    font-family: 'Pontano Sans', sans-serif;
+}
+h1{
+    font-family: 'Pontano Sans', sans-serif;
+}
+#headline{
+    margin-top: -28vh;
+    margin-bottom: 18vh;
+    margin-left: 12vw;
+    font-size: 15vh;
+    font-weight: 500;
+    font-family: 'Playfair Display', serif;
+}
